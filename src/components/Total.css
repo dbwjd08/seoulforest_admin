@@ -1,0 +1,14 @@
+.total_search {
+  overflow: hidden;
+  padding-bottom: 10px;
+}
+
+.total_search_box {
+  float: left;
+  padding-right: 5px;
+}
+
+.total_search_box-right {
+  float: right;
+  padding-left: 5px;
+}
