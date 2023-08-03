@@ -77,12 +77,12 @@ export default function Total() {
           </thead>
           <tbody>
             <tr>
-              <td>값</td>
-              <td>어떻게</td>
-              <td>받고</td>
-              <td>어떻게</td>
-              <td>표시함</td>
-              <td>???</td>
+              <td>//</td>
+              <td>//</td>
+              <td>//</td>
+              <td>//</td>
+              <td>//</td>
+              <td>//</td>
               <td>
                 <button>삭제</button>
               </td>

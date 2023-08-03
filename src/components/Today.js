@@ -14,6 +14,8 @@ export default function Today() {
     },
   ]);
 
+  const img = document.createElement("a");
+
   const baseUrl =
     "https://port-0-agreement-be-20zynm2mljr8gv2e.sel4.cloudtype.app/api/agreement/";
 
